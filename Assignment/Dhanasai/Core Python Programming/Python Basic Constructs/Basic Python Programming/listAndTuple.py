@@ -1,0 +1,5 @@
+sample_data = input("Enter few comma-separated numbers:")
+list_conversion = sample_data.split(",")
+tuple_conversion = tuple(list_conversion)
+print("List:",list_conversion)
+print("Tuple:",tuple_conversion)
