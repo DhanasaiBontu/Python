@@ -77,6 +77,7 @@ All datasets are placed inside the `data/` folder.
 
 ## Project Structure
 
+```
 Data_Processing/
 │
 ├── data/
@@ -88,6 +89,7 @@ Data_Processing/
 │
 ├── main.ipynb
 └── README.md
+```
 
 ---
 
@@ -119,4 +121,5 @@ This project demonstrates:
 - Data preprocessing
 - Advanced EDA techniques
 - Statistical insight generation
+
 - Professional data visualization
